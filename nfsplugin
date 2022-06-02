@@ -1,0 +1,2 @@
+FROM registry.k8s.io/sig-storage/nfsplugin
+LABEL u=m
